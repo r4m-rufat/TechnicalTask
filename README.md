@@ -39,4 +39,6 @@ UI-nin responsiv olmasını və ekran rotasiyalarına uyğunlaşmasını təmin 
 Səhifələr arası keçidlərə animasiya əlavə etmək
 
 ## Figma link: 
-<a href="https://www.figma.com/design/rmht7hJhJm4Adq6OSMbfgZ/Interview?node-id=0-1&t=4PqugPJpI2I3NgWg-1"/>
+<a href="https://www.figma.com/design/rmht7hJhJm4Adq6OSMbfgZ/Interview?node-id=0-1&t=4PqugPJpI2I3NgWg-1">
+  <p>Figma link</p>
+</a>
