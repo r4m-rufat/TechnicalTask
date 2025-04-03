@@ -14,17 +14,19 @@ LazyColumn istifadə edərək, əvvəlcədən müəyyən edilmiş ölkələr siy
 
 Hər ölkənin yanında checkbox olsun və istifadəçi onu işarələyə bilsin.
 
-Aşağıda bir "Next" düyməsi olsun.
+Aşağıda bir "Save" düyməsi olsun.
 
 Düymə standart olaraq deaktiv olmalıdır və ən az bir ölkə seçildikdə aktivləşməlidir.
 
-Düyməyə klik edildikdə Favoritlər Ekranına keçid olunmalı və seçilmiş ölkələr göstərilməlidir.
+Düyməyə klik edildikdə favoritlərə save etsin və ekrana bir mesaj çıxarsın(Snakcbar, Toast və s.).
+
+TopAppBar da sağdakı favorit ikonuna kliklədikdə  favoritlər səhifəsi açılacaq.
 
 ## Ekran 2: Favoritlər Siyahısı
 
 LazyColumn istifadə edərək seçilmiş ölkələri siyahıda göstərin.
 
-"Back" düyməsi əlavə edilsin ki, seçim ekranına geri qayıtmaq mümkün olsun və geri qayıtdıqda favoritlər ekranda gorülməlidir.
+"Back" düyməsi əlavə edilsin ki, seçim ekranına geri qayıtmaq mümkün olsun və geri qayıtdıqda favoritlər seçilmiş olaraq qalmalıdır.
 
 # Texniki Tələblər:
 
@@ -35,3 +37,6 @@ UI-nin responsiv olmasını və ekran rotasiyalarına uyğunlaşmasını təmin 
 ## Bonus (İstəyə bağlı):
 
 Səhifələr arası keçidlərə animasiya əlavə etmək
+
+## Figma link: 
+<a href="https://www.figma.com/design/rmht7hJhJm4Adq6OSMbfgZ/Interview?node-id=0-1&t=4PqugPJpI2I3NgWg-1"/>
