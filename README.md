@@ -28,11 +28,7 @@ LazyColumn istifadə edərək seçilmiş ölkələri siyahıda göstərin.
 
 # Texniki Tələblər:
 
-UI üçün Jetpack Compose istifadə edin.
-
 UI vəziyyətini idarə etmək üçün ViewModel tətbiq edin.
-
-Ekranlar arasında məlumat ötürmək üçün Navigation Component istifadə edin.
 
 UI-nin responsiv olmasını və ekran rotasiyalarına uyğunlaşmasını təmin edin.
 
