@@ -24,7 +24,7 @@ Düyməyə klik edildikdə Favoritlər Ekranına keçid olunmalı və seçilmiş
 
 LazyColumn istifadə edərək seçilmiş ölkələri siyahıda göstərin.
 
-"Back" düyməsi əlavə edilsin ki, seçim ekranına geri qayıtmaq mümkün olsun.
+"Back" düyməsi əlavə edilsin ki, seçim ekranına geri qayıtmaq mümkün olsun və geri qayıtdıqda favoritlər ekranda gorülməlidir.
 
 # Texniki Tələblər:
 
