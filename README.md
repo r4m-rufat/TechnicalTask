@@ -1,6 +1,6 @@
 # Ölkə Seçimi və Favoritlər Siyahısı
 
-# İki ekranlı sadə bir Android tətbiqi hazırlayın:
+# İki ekranlı sadə bir Android tətbiq:
 
 Ölkə Seçim Ekranı - Varsayılan ölkələr siyahısını göstərin və istifadəçiyə seçim imkanı verin.
 
