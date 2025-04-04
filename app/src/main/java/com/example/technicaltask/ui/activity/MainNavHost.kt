@@ -22,7 +22,8 @@ fun MainNavHost(
 
         composable(route = MainNavHost.HomeScreen) {
             CountryScreen(
-                navHostController = navHostController,
+
+//                navHostController = navHostController,
                 viewModel = viewModel
             )
         }
